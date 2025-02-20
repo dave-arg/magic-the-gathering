@@ -2,6 +2,7 @@
   width: fit-content;
   justify-self: center;
   color: cornflowerblue;
+  cursor: pointer;
 }
 
 .swiper-collection {
