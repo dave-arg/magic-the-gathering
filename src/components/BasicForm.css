@@ -1,0 +1,20 @@
+.basic-menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 24px;
+  margin-top: 1.33em;
+  margin-bottom: 1.33em;
+}
+
+.form-button {
+  background-color: transparent;
+  border: none;
+  color: cornflowerblue;
+}
+
+.form-input {
+  border: none;
+  border-radius: 2px;
+  width: 100px;
+}

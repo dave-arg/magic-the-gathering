@@ -1,0 +1,12 @@
+.collection-item {
+  height: 180px;
+}
+
+.deck-item {
+  height: 200px;
+}
+
+.collection-item img,
+.deck-item img {
+  height: 100%;
+}

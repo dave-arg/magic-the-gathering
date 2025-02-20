@@ -1,0 +1,16 @@
+.deck-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.deck-item-container {
+  background-color: rgb(235 235 235);
+  margin: 15px;
+  padding: 25px;
+  width: 100%;
+  height: 100%;
+  max-width: 280px;
+  border-radius: 8px;
+}

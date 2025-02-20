@@ -1,0 +1,10 @@
+.button {
+  background-color: transparent;
+  border: none;
+  color: cornflowerblue;
+  cursor: pointer;
+}
+
+.button:hover {
+  color: rgb(154, 187, 248);
+}
